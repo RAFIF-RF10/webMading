@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="login.css">
+    <title>LOGIN PAGE</title>
+</head>
+<body>
+    <div class="container">
+    <div class="image">
+        <img src="image/login.png" alt="" width="600px" height="400px">
+    </div>
+
+    <div class="garis"></div>
+    <div class="daftar-container">
+        <div class="kotak-kuning">  </div>
+      
+        <div class="kotak-putih">
+            <div class="form">
+                <p>MASUK</p>
+            <input placeholder="Email" class="email" type="email" name="email id="">
+            <input placeholder="Password" class="password" type="password" name="password id="">
+            <a href="index.html"><button class="btn-daftar" type="submit">LOGIN</button></a>
+        </div>
+        </div>
+    </div>
+    </div>
+</body>
+</html>
